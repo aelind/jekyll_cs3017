@@ -2,7 +2,7 @@
 layout: single
 title: History of the Wicked Cool Wizard Tower
 
----
+
 
 
   
@@ -14,3 +14,5 @@ excerpt: This is an old tower made from brick on the tall mountain (it is actual
 - The tower was made in 1096ce by the founders of the first grandest wizards 
 - The pengins would also love to have some company besides the penguin scientists, other specilaized scientists, and of course the grandest grand wizards
 - much local penguin culture and you too could come see the penguin meusium that the wizards of the wicked cool wizard tower (I hear that the peguins rather like drums and drum rolls)
+
+---

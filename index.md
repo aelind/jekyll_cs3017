@@ -8,6 +8,12 @@ header:
     actions:
         - label: "Learn More"
           url: /about
+        - label: "History of the Wicked Cool Wizard Tower"
+          url: /history
+        - label: "Dining for the Wicked Cool Wizard Tower and Local Area"
+          url: /dining
+        - label: "Activities of the Wicked Cool Wizard Tower"
+          url: /activities         
 
     overlay_image: rgba(126, 172, 255, 0.8)
 ---  

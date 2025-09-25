@@ -1,5 +1,10 @@
 main:
   - title: "About"
     url: /about 
-  - title: "History"
+  - title: "History of the Wicked Cool Wizard Tower"
     url: /history
+  - title: "Dining for the Wicked Cool Wizard Tower and Local Area"
+    url: /dining
+  - title: "Activities of the Wicked Cool Wizard Tower"
+    url: /activities
+   
